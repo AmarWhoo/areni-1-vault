@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c68c78921d9a3b3b12e93614268b48e9",
+    "content-hash": "4f2831f5522953751a4a6ae869338874",
     "packages": [
         {
             "name": "mikecao/flight",
-            "version": "v3.5.3",
+            "version": "v3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/flightphp/core.git",
-                "reference": "4f37a4854e4fac9b9cc4ea6c11dcbdb55784dbe4"
+                "reference": "735dafefb9b49ef46f26a511efe224d575c28cc7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flightphp/core/zipball/4f37a4854e4fac9b9cc4ea6c11dcbdb55784dbe4",
-                "reference": "4f37a4854e4fac9b9cc4ea6c11dcbdb55784dbe4",
+                "url": "https://api.github.com/repos/flightphp/core/zipball/735dafefb9b49ef46f26a511efe224d575c28cc7",
+                "reference": "735dafefb9b49ef46f26a511efe224d575c28cc7",
                 "shasum": ""
             },
             "require": {
@@ -70,9 +70,9 @@
             "homepage": "http://flightphp.com",
             "support": {
                 "issues": "https://github.com/flightphp/core/issues",
-                "source": "https://github.com/flightphp/core/tree/v3.5.3"
+                "source": "https://github.com/flightphp/core/tree/v3.6.0"
             },
-            "time": "2024-02-21T08:44:35+00:00"
+            "time": "2024-03-02T21:06:28+00:00"
         }
     ],
     "packages-dev": [],
